@@ -33,3 +33,16 @@ Attribute Information:
     smoker : Smoking
     region : the beneficiary's residential area in the US, northeast,southeast, southwest, northwest.
     charges : Individual medical costs billed by health insurance.
+    
+ # Analysis using the following Liberaries
+
+    numpy
+    pandas
+    seaborn
+    matplotlib.pyplot
+
+# Files contained
+
+    CSV File
+    Python Notebook
+
